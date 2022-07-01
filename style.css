@@ -65,7 +65,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(IMG-20220626-WA0003.jpg);
+    background: url(/image/IMG-20220626-WA0003.jpg);
     background-size: cover;
     height: 100vh;
     color: rgb(37, 216, 76);
